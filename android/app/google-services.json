@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648146506133",
+    "project_id": "bluebird-software-web",
+    "storage_bucket": "bluebird-software-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648146506133:android:824ccf212362e7b70ba69c",
+        "android_client_info": {
+          "package_name": "com.example.bluebirdsoftware"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmv2VXUw-HW-9VA0Gv-6UtP5u3g5LMNgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
